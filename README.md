@@ -1,6 +1,4 @@
 # workflow-dbx
 workflow-dbx 
-Afonso lenzi
-up1
-up2
-up3
+
+tests creating a feature branch with course content for workflows
